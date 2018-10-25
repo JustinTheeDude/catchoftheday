@@ -25,7 +25,6 @@ export function getFunName() {
     "adorable",
     "beautiful",
     "clean",
-    "drab",
     "elegant",
     "fancy",
     "glamorous",
